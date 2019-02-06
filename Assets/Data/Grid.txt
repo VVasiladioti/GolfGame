@@ -1,0 +1,11 @@
+260
+8
+8
+xxxxxxxx
+x.x....x
+x.x..xxx
+x.xx...x
+x....x.x
+x..xxx.x
+x....x.x
+xxxxxxxx
